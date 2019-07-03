@@ -1,25 +1,25 @@
 # Projects
 
-#### [Devextreme Data Visualization](https://js.devexpress.com/Overview/Charts/)
+## [Devextreme Data Visualization](https://js.devexpress.com/Overview/Charts/)
 
 ![](dx-chart-titul.png)
 
-*Role*: JS-developer
+**Role**: JS-developer
 
-#### Devexpress Analytics Tools
+## Devexpress Analytics Tools
 
 ![](mixpanel-titul.png)
 
-*Role*: Product Owner
+**Role**: Product Owner
 
-#### [ReSolve](https://github.com/reimagined/resolve)
+## [ReSolve](https://github.com/reimagined/resolve)
 
 ![](resolve-titul.png)
 
-*Role*: Product Owner, Scrum Master
+**Role**: Product Owner, Scrum Master
 
-#### [EasyPay Indonesia](https://easypay.co.id/)
+## [EasyPay Indonesia](https://easypay.co.id/)
 
 ![](easypay-titul.png)
 
-*Role*: Backend Developer, Business Analyst, Product Manager
+**Role**: Backend Developer, Business Analyst, Product Manager
