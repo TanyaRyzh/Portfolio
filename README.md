@@ -1,7 +1,7 @@
 # Hi there!
 
-- ![Resume](/Resume.md)
-- ![Projects](/Projects.md)
+- [Resume](/Resume.md)
+- [Projects](/Projects.md)
 
 My name is Tanya, and I am passionate and experienced **JS-developer and Product Manager**! My first position was a front-end developer, then I was a back-end developer, a business analyst, and finally, I've grown up to product manager. This way provides me with many sides of the product vision owing to combining the technical background and real product development:
 
