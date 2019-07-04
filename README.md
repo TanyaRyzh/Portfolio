@@ -1,5 +1,7 @@
 # Hi there!
 
+![](ava.jpg)
+
 - [Resume](/Resume.md)
 - [Projects](/Projects.md)
 

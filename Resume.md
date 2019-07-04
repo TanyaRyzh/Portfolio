@@ -3,7 +3,9 @@
 Kuznetsova Tatiana
 
 **LinkedIn:** https://www.linkedin.com/in/kuznetsova-tatiana-621b52101/
+
 **Skype:** dx.tanya
+
 **e-mail**: tanyasryzh@gmail.com
 
 ## Summary
