@@ -16,6 +16,8 @@
 - Data visualization
 - Test Driven Development
 - CI/CD
+- Agile, Scrum
+- Trello
 
 **Responsibilities**:
 - Software development
