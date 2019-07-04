@@ -12,9 +12,9 @@ Passionate and creative Product Manager with 7 years of experience in IT, leads 
 
 ## Work Experience
 
-**Apr 2013 - Aug 2016** JS Developer in [Devexpress](www.devexpress.com)
+**Aug 2012 - Aug 2016** JS Developer in [Devexpress](www.devexpress.com)
 
-**Aug 2016 - Sep 2018** Product Owner in [Devexpress](www.devexpress.com)
+**Aug 2016 - Sep 2018** Product Manager in [Devexpress](www.devexpress.com)
 
 **Sep 2018 - Dec 2018** Node.js Developer in [EasyPay Indonesia](www.easypay.co.id)
 
