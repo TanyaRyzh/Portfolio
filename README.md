@@ -7,7 +7,7 @@
 
 My name is Tanya, and I am passionate and experienced **JS-developer and Product Manager**! My first position was a front-end developer, then I was a back-end developer, a business analyst, and finally, I've grown up to product manager. This way provides me with many sides of the product vision owing to combining the technical background and real product development:
 
-<img src="js-logo.jpg" align="center"/>
+<img src="js-logo.png" align="center"/>
 
 - **JavaScript, HTML, CSS, React and Redux, JQuery** aren't the empty sounds for me thanks to my front-end experience. When I became a back-end developer I met **NodeJS, MongoDB, PostgreDB, SQL, RabbitMQ, Bash and Batch scripts**. Of course, I know such common developer tools like **Git, SourceTree, GitLab, NPM, Yarn, Webpack, JIRA, Youtrack, Redmine**.
 
