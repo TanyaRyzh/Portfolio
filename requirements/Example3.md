@@ -10,22 +10,22 @@
 1. As a manager, I want to be able to open a transaction report for the agents so that I can analyze their work
 1.1 Make markup 
 
-![](/Wireframe - CanvassersTRX.png)
+![](Wireframe%20-%20CanvassersTRX.png)
 
 2. As a manager, I want to be able to open a transaction report for the dealer's agents so that I can analyze their work
 2.1 Make markup 
 
-![](Wireframe - DealersTRX.png)
+![](Wireframe%20-%20DealersTRX.png)
 
 3. As a manager, I want to be able to open a deposit report for the canvassers so that I can analyze their work
 3.1 Make markup 
 
-![](Wireframe - CanvassersDeposit.png)
+![](Wireframe%20-%20CanvassersDeposit.png)
 
 4. As a manager, I want to be able to open a deposit report for the dealers so that I can analyze their work
 4.1 Make markup 
 
-![](Wireframe - DealersDeposit.png)
+![](Wireframe%20-%20DealersDeposit.png)
 
 5. As a manager, I want to be able to see all necessary information at transaction report about agents (region name, area name, coordinator name and canvasser name or dealer name, agent name, agent username, agent phone number) so that I can identify them
 5.1 Make a way to get information about agents

@@ -38,7 +38,7 @@ _News_ - it's just a message that is going to section "News" in notification pan
 5.1 Make markup
 5.2 Make a way to get news with all data
 
-![](Wireframe - News.png)
+![](Wireframe%20-%20News.png)
 
 6. As a manager, I want to be able to sort all news so that I can quickly find the news
 6.1 Make markup 
@@ -47,7 +47,7 @@ _News_ - it's just a message that is going to section "News" in notification pan
 7.1 Make markup
 7.2 Make a way to add news
 
-![](Wireframe - News creation.png)
+![](Wireframe%20-%20News%20creation.png)
 
 8. As a Manager, I want to see warning if the last News was less than 7 days ago, so that I can change my mind
 8.1 Make markup
