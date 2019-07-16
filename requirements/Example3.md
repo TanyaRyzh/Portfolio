@@ -10,7 +10,7 @@
 1. As a manager, I want to be able to open a transaction report for the agents so that I can analyze their work
 1.1 Make markup 
 
-![](Wireframe - CanvassersTRX.png)
+![](/Wireframe - CanvassersTRX.png)
 
 2. As a manager, I want to be able to open a transaction report for the dealer's agents so that I can analyze their work
 2.1 Make markup 
