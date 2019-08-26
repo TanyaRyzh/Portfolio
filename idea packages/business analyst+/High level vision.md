@@ -1,7 +1,19 @@
 ## The high level vision of web page for small company
 
-Web site with those common parts:
+**Business target**:
+Make the web page for ordering and marketing of company services
 
+**Needs:** 
+Information about product, company, capability to contact
+
+**Wishes:**
+Photo, feedback, Twitter link, information about advantages, portfolio
+
+**Stakeholders:** 
+You, your potential clients  
+
+**General idea:**
+Web site with those common parts:
 1. "Main" section: name of company, slogan, photo.
 2. "About" section: high-level information about company and its services
 3. "Product" section: a description of 3 service packages
