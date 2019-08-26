@@ -22,3 +22,4 @@ Web site with those common parts:
 6. "Feedback" section: some numbers about successful work, clients feedback
 7. "Portfolio" section: images, links, descriptions
 8. "Contacts" section: web page footer and link to Twitter
+10. Analytic for web page
