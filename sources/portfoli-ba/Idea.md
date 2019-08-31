@@ -1,4 +1,5 @@
-## The initial description of web page for small company
+## ID Name
+## The initial description
 
 I want my web page to suggest my service to potential clients. They can learn more about me, my product, look at my portfolio and works, and order services. I have already made a logo and the name. Also, I want the web page has my photo and process description of my work with clients.
 The main target is dispelling doubts and answering questions of my potential clients. For example, we have a financial guarantee: during the first 7 days of working the client can reject our agreement without any payments if he feels that our work is not suitable for him.
