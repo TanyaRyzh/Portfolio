@@ -1,8 +1,8 @@
 # Portfolio
 
 ## Technical Requirements
-- [Example 1](/requirements/Support%2BChats.doc)
-- [Example 2](/requirements/AML%2BProcess%2B(MVP).doc)
+- [Example 1](/requirements/Support%2BChats.pdf)
+- [Example 2](/requirements/AML%2BProcess%2B(MVP).pdf)
 - [Example 3](/requirements/Example3.md)
 
 ## Dashboards & Researches
